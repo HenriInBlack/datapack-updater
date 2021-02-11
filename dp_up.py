@@ -5,7 +5,7 @@ back = False
 def dp_error(msg='Error with data pack.\nCheck if it is incomplete or if the wrong directory was given'):
     print(msg)
     sys.exit()
-#item entity @s armor.head replace stone
+    
 def update_function_dir(fn_path, bck):
     files = os.listdir(fn_path)
     for fn in files:
