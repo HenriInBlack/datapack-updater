@@ -6,4 +6,4 @@ To get help enter ```python dp_up.py -help```
 
 
 
-It will update the ```pack_format``` in the pack.mcmeta and update all ```replaceitem``` commands in the function files. 
+It will update the ```pack_format``` in the pack.mcmeta and update all ```replaceitem``` commands to ```item [...] replace``` in the function files. 
